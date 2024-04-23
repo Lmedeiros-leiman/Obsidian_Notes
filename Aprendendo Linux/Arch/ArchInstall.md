@@ -33,3 +33,14 @@ Ao iniciar o arquivo .ISO você será recebido pela tela inicial do arch linux, 
 ![[../Pasted image 20240422123536.png|Pasted image 20240422123536.png]]
 
 Após isto veremos uma longa lista de simbolos e textos com alguns dando OK e outros poucos FAILURE e então seremos recebidos por uma tela preta: o Bash!
+
+Inicialmente antes de fazer qualquer coisa, precisamos atualziar o archinstall que esta presente no pendrive: 
+```sh
+sudo pacman -S archinstall
+```
+arch linux busca funcionar perfeitamente com uma conexão cabeada logo de frente.
+em seguida podemos instalar o sistema executando o pacote instalado.
+```sh
+archinstall
+```
+

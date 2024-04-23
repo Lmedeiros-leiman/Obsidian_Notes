@@ -1,5 +1,5 @@
 
-Aqui será mencionado como funciona uma instalação manual do arch linux, para uma instalação mais rápida e simplificada é melhor utilizar [[ArchInstall|ArchInstall]]
+Aqui será mencionado como funciona uma instalação manual do arch linux, para uma instalação mais rápida e simplificada é melhor utilizar [[./ArchInstall|ArchInstall]]
 
 
 Requesitos:
