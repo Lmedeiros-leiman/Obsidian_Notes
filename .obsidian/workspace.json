@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "749c8d0a85067219",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea66f29007573a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c2cf548b25ae8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05c6b4bda501c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ea5089aa9813ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cb3d2bfb63e0c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9d11b6ce6c4184c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98732c6177c8ca8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d54cbc1e662db92",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e6e99baf2258b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da701970711804d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71b046275632f0a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32fbeaa944f0b763",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85dc529284eba892",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0c2cf548b25ae8c9",
+  "lastOpenFiles": [
+    "Faculdade/Estudo Transversal/Pasted image 20240427163353.png",
+    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+    "Faculdade/Estudo Transversal/Pasted image 20240427183148.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427183130.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427182754.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427182639.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427182539.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427164350.png",
+    "Faculdade/Estudo Transversal/Pasted image 20240427164119.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Unidade 1 - PERDIDA (W.I.P).md",
+    "README.md",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Unidade 2 - HTML.md",
+    "Aprendendo Desenvolvimento/Discord Bot/Básico Bot Discord.md",
+    "Faculdade/Estudo Transversal",
+    "Aprendendo Desenvolvimento/Discord Bot"
+  ]
+}

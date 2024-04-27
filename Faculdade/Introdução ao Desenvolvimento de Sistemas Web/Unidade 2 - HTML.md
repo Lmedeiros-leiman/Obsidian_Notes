@@ -1,5 +1,5 @@
 
-# Tópico 1 > Fundamentos do HTML
+# Tópico 1 : Fundamentos do HTML
 
 HTML é uma linguagem de formatação e estuturação de documentos web, ela auxilia desenvolvedores a criarem componentes visuais atrativos, mesmo que o desenvolvedor não tenha conhecimento profundo em desenvolvimento.
 
@@ -162,3 +162,22 @@ Todo elemento/Tag HTML possui certos atributos que podem ser atribuidos durante 
 | src               | a URL para a fonte de uma tag, normalmente scrip, video, audio ou imagem. |
 | title             | texto que aparecera como dica de ferramenta (mouse parado em cima da tag) |
 | value             | qual valor o conteúdo de entrada tem por padrão.                          |
+> Nas linguagens de programação é normal querer utilizar um caractere extra para indicar um comentário. o HTML não é diferente com a tag <!- e -> > 
+>    ``` html
+ <!- Comentário HTML ou macarção visual no documento de texto. -> 
+
+### Entendo links
+
+No html é comum querer interligar páginas entre si. normalmente para isso utilizamos a tag ```<a>```.
+
+essa é a tag chamada Anchor e ela possui atributos especiais, podendo receber um link pelo atributo ```href``` podendo selecionar até mesmo componentes DENTRO da página:
+
+```html
+
+<a href=#ListaProdutos> Esta ancora irá procurar um elemento com a tag ListaProdutos neste documento </a>
+
+<a href="www.google.com">esta tag irá enviar a página para o site do google.</a>
+
+<a href="www.google.com" target="_blank">essa tag irá abrir uma nova página e direcionar ela para o site do google.</a>
+```
+
