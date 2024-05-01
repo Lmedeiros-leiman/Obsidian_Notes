@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea66f29007573a7a",
+        "id": "e804fcca77a4ac4c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2cf548b25ae8c9",
+            "id": "fb5a0fbfcd9bf458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258
   },
   "right": {
     "id": "9d54cbc1e662db92",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
+                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md"
+                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md"
               }
             }
           }
@@ -146,20 +146,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c2cf548b25ae8c9",
+  "active": "fb5a0fbfcd9bf458",
   "lastOpenFiles": [
-    "Faculdade/Estudo Transversal/Pasted image 20240427163353.png",
-    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens.md",
-    "Faculdade/Estudo Transversal/Pasted image 20240427183148.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427183130.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427182754.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427182639.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427182539.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427164350.png",
-    "Faculdade/Estudo Transversal/Pasted image 20240427164119.png",
+    "Aprendendo Desenvolvimento/Listinha planejamento.md",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430165802.png",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430192227.png",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430192036.png",
+    "Aprendendo Desenvolvimento/Editores Texto/Sem título.md",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Sem título 2.md",
+    "Faculdade/Linguagens de programação e Estruturas de dados/Sem título 1.md",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428152638.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428152617.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428152557.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428152546.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428151352.png",
+    "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Unidade 3 - CSS e JavaSript.md",
     "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Unidade 1 - PERDIDA (W.I.P).md",
-    "README.md",
     "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Unidade 2 - HTML.md",
+    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens/Leitura e interpretação de mapas, gráficos e imagens.md",
+    "Faculdade/Linguagens de programação e Estruturas de dados",
+    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens",
+    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens/Pasted image 20240427163353.png",
+    "Faculdade/Estudo Transversal/Leitura e interpretação de mapas, gráficos e imagens/Pasted image 20240427183148.png",
+    "README.md",
     "Aprendendo Desenvolvimento/Discord Bot/Básico Bot Discord.md",
     "Faculdade/Estudo Transversal",
     "Aprendendo Desenvolvimento/Discord Bot"

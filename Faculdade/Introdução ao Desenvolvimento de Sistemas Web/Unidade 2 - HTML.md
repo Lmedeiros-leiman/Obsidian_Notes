@@ -1,4 +1,4 @@
-
+https://livrodigital.uniasselvi.com.br/ADS07_introducao_ao_desenvolvimento_de_sistemas_web/unidade2.html?topico=1
 # Tópico 1 : Fundamentos do HTML
 
 HTML é uma linguagem de formatação e estuturação de documentos web, ela auxilia desenvolvedores a criarem componentes visuais atrativos, mesmo que o desenvolvedor não tenha conhecimento profundo em desenvolvimento.
