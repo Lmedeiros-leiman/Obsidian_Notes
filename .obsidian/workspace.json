@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
+                "file": "Aprendendo Desenvolvimento/Familia C/C da microsoft/Criando um projeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5d2583b89943abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75e23525a975492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendendo Desenvolvimento/Familia C/C da microsoft/Básico do C++++ e .NET.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
+                "file": "Aprendendo Desenvolvimento/Familia C/C da microsoft/Básico do C++++ e .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
+                "file": "Aprendendo Desenvolvimento/Familia C/C da microsoft/Básico do C++++ e .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md"
+                "file": "Aprendendo Desenvolvimento/Familia C/C da microsoft/Básico do C++++ e .NET.md"
               }
             }
           }
@@ -146,14 +164,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fb5a0fbfcd9bf458",
+  "active": "e4cb3d2bfb63e0c1",
   "lastOpenFiles": [
-    "Aprendendo Desenvolvimento/Listinha planejamento.md",
+    "Aprendendo Desenvolvimento/Familia C/C da microsoft/dotnet-csharp.pdf",
+    "Aprendendo Desenvolvimento/Familia C/C da microsoft/Criando um projeto.md",
+    "Aprendendo Desenvolvimento/Familia C/C da microsoft/Básico do C++++ e .NET.md",
+    "Aprendendo Desenvolvimento/Editores Texto/Sem título.md",
+    "Aprendendo Desenvolvimento/Familia C/C++/Aprendendo C++.md",
     "Faculdade/Linguagens de programação e Estruturas de dados/Cápitulo 1 - Estruturas básicas de dados.md",
+    "Aprendendo Desenvolvimento/Familia C/C da microsoft",
+    "Aprendendo Desenvolvimento/Familia C",
+    "Aprendendo Linux/Arch/ArchInstall.md",
+    "Aprendendo Desenvolvimento/Familia C/C++",
+    "Aprendendo Linux/Arch/Instalação Manual (INCOMPLETO).md",
+    "Aprendendo Desenvolvimento/Listinha planejamento.md",
     "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430165802.png",
     "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430192227.png",
     "Faculdade/Linguagens de programação e Estruturas de dados/Pasted image 20240430192036.png",
-    "Aprendendo Desenvolvimento/Editores Texto/Sem título.md",
     "Faculdade/Linguagens de programação e Estruturas de dados/Sem título 2.md",
     "Faculdade/Linguagens de programação e Estruturas de dados/Sem título 1.md",
     "Faculdade/Introdução ao Desenvolvimento de Sistemas Web/Pasted image 20240428152638.png",
